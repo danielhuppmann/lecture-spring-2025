@@ -1,4 +1,4 @@
-# Lecture Spring 2025
+# Lecture Spring 2025 - Demo Tutorial
 
 Copyright 2025 Daniel Huppmann
 
