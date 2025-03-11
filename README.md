@@ -7,3 +7,5 @@ Copyright 2025 Daniel Huppmann
 This project is released under an MIT LICENSE.
 
 This is a live demo for open-source energy system modelling course at TU Wien.
+
+I hope that all students enjoyed the lecture
